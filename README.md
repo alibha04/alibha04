@@ -7,6 +7,12 @@
 - ## Here are my projects
   ### Express projects
 - [Basic Express App With CRUD API](https://github.com/alibha04/expressAPI1)
+-  [ Express crud operation +  status code+ with mongoose connection + try catch error handeling & better folder structure](https://github.com/alibha04/expressAPIl2)
+
+   ### React Projects
 - [Word Letter Counter using REACT](https://github.com/alibha04/reactProject)
+- [Basic react project password validator](https://github.com/alibha04/reactProjectMain/tree/main/password-validator)
+-  [basic react pratice project to create a lyrics finder](https://github.com/alibha04/reactProjectMain/tree/main/lyrics-finder)
+ - [basic react project for axios app](https://github.com/alibha04/reactProjectMain/tree/main/axios-lab)
   
   
