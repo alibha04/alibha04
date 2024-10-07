@@ -1,7 +1,7 @@
-# Hello ,I’m Alibha Rani Pradhan
+ <h3 align ="center"> Hello ,I’m Alibha Rani Pradhan</h3>
  <p align="center">
-      <img src="cat.webp" width="50"/>
-        </p>
+        <img src="cat.webp" width="50"/>
+      </p>
   
    
 - 👀 I’m interested in learning various programming languages
