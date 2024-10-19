@@ -1,6 +1,6 @@
  <h3 align ="center"> Hello ,I’m Alibha Rani Pradhan</h3>
  <p align="center">
-        <img src="cat.webp" width="50"/>
+      <a href="https://github.com/alibha04?tab=repositories"> <img src="cat.webp" width="50"/></a> 
       </p>
   
    
