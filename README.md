@@ -1,4 +1,4 @@
- <h3 align ="center"> Hello ,I’m Alibha Rani Pradhan</h3>
+ <h3 align ="center"> Hello , I’m Alibha Rani Pradhan</h3>
  <p align="center">
       <a href="https://github.com/alibha04?tab=repositories" target="_main"> <img src="cat.webp" width="50"/></a> 
       </p>
