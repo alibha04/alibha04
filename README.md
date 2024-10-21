@@ -16,7 +16,7 @@
 - [Basic express application, with crud operation , testing done with http file](https://github.com/alibha04/expressApp2)
 -  [ Express crud operation +  status code+ with mongoose connection + try catch error handeling & better folder structure](https://github.com/alibha04/expressAPIl2)
 
-   ### React Proje cts
+   ### React Projects
 - [Word Letter Counter using REACT](https://github.com/alibha04/reactProject)
 - [Basic react project password validator](https://github.com/alibha04/reactProjectMain/tree/main/password-validator)
 -  [basic react project to create a lyrics finder](https://github.com/alibha04/reactProjectMain/tree/main/lyrics-finder)
