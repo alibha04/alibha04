@@ -22,5 +22,6 @@
 -  [Basic react project to create a lyrics finder](https://github.com/alibha04/reactProjectMain/tree/main/lyrics-finder)
  - [Basic react project for axios app](https://github.com/alibha04/reactProjectMain/tree/main/axios-lab)
  - [Basic react project for weather-tracker of different cities](https://github.com/alibha04/reactProjectMain/tree/main/weather-application)
+ - [Basic react project for navigation of React Router in React-application](https://github.com/alibha04/reactProjectMain/tree/main/react-router-lab)
   
   
