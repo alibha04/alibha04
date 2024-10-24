@@ -17,7 +17,7 @@
 -  [ Express crud operation +  status code+ with mongoose connection + try catch error handeling & better folder structure](https://github.com/alibha04/expressAPIl2)
 
    ### React Projects
-- [Word Letter Counter using REACT](https://github.com/alibha04/reactProject)
+- [Basic react project for world-letter count](https://github.com/alibha04/reactProject)
 - [Basic react project password validator](https://github.com/alibha04/reactProjectMain/tree/main/password-validator)
 -  [Basic react project to create a lyrics finder](https://github.com/alibha04/reactProjectMain/tree/main/lyrics-finder)
  - [Basic react project for axios app](https://github.com/alibha04/reactProjectMain/tree/main/axios-lab)
